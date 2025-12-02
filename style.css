@@ -30,7 +30,7 @@ textarea {
     top: 0;
     height: 254px;
     width: 100%;
-    background-image: linear-gradient(to right, rgba(101, 0, 163, 0.9), rgba(24, 120, 175, 0.9)), url(./images/photo-1546453667-8a8d2d07bc20.jpg);
+    background-image: linear-gradient(to right, rgba(101, 0, 163, 0.9), rgba(24, 120, 175, 0.9)), url(/images/photo-1546453667-8a8d2d07bc20.jpg);
 }
 
 .first-heading {
